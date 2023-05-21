@@ -1,0 +1,16 @@
+{
+    "name": "evgeny-korovin/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "EvgenyKorovin\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgeny Korovin",
+            "email": "korovin.evgeny@gmail.com"
+        }
+    ],
+    "require": {}
+}
