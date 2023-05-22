@@ -11,8 +11,5 @@
             "name": "Evgeny Korovin",
             "email": "korovin.evgeny@gmail.com"
         }
-    ],
-    "require": {
-        "php": ">=7.4"
-    }
+    ]
 }
