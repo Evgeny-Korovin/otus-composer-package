@@ -4,7 +4,7 @@ namespace EvgenyKorovin\OtusComposerPackage;
 
 class StringToArrayProcessor
 {
-    public function getStringToArray(array $arr): string
+    public function getStringFromArray(array $arr): string
     {
         return implode(' ', $arr);
     }
